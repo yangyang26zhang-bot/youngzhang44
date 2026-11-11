@@ -24,9 +24,8 @@ repository: "yangyang26zhang-bot/youngzhang44"
 # Site Author
 author:
   name: "Young Zhang"
-  avatar: "profile.png"
+  avatar: "https://yangyang26zhang-bot.github.io/youngzhang44/profile.png"  
   bio: "PhD student"
-
   pronouns:
   location: "London"
   employer:
