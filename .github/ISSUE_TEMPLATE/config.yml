@@ -1,6 +1,1 @@
-title: "Young Zhang"
-name: &name "Young Zhang"
-description: &description "Young Zhang's personal website"
-url: "https://youngzhang44.github.io"
-baseurl: ""
-repository: "youngzhang44.github.io"
+blank_issues_enabled: false
