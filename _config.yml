@@ -129,6 +129,12 @@ include:
   - _pages
   - files
 exclude:
+  # Original sample blog posts; exclude these exact files, not the _posts folder.
+  - _posts/2012-08-14-blog-post-1.md
+  - _posts/2013-08-14-blog-post-2.md
+  - _posts/2014-08-14-blog-post-3.md
+  - _posts/2015-08-14-blog-post-4.md
+  - _posts/2199-01-01-future-post.md
   - "*.sublime-project"
   - "*.sublime-workspace"
   - .asset-cache

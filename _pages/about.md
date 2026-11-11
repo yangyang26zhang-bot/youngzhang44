@@ -27,11 +27,6 @@ I am currently studying extreme value theory for discrete-time series in Wassers
 
 Outside research, I enjoy watching and playing football, and I have been a Chelsea supporter for over ten years. I also enjoy analysing stocks from a fundamental perspective.
 
-### Investment Ideas for 2027
-
-Two of my stock picks for 2027 are:
-
-- **TER:** My thesis centres on growing demand for wafer and high-bandwidth memory (HBM) testing, alongside potential long-term upside from the robotics sector.
-- **HOOD:** I am interested in its potential to benefit from the growth of prediction markets and a possible recovery in cryptocurrency trading activity.
+I share occasional company analyses and updates in [Investment Ideas]({{ '/investment-ideas/' | relative_url }}).
 
 For more details about my education and experience, please see my [CV]({{ '/cv/' | relative_url }}). You can contact me at [yz9521@ic.ac.uk](mailto:yz9521@ic.ac.uk).
