@@ -27,37 +27,21 @@ author:
   avatar: "profile.png"
   bio: "PhD student"
 
-  # 可以稍后补充的信息
   pronouns:
-  location: London
+  location: "London"
   employer:
-  email: yz9521@ic.ac.uk
+  email: "yz9521@ic.ac.uk"
   uri:
 
-  # 学术主页：有自己的链接后再填写
   arxiv:
   googlescholar:
   orcid:
   pubmed:
 
-  # GitHub 这里填写账号名
   github: "yangyang26zhang-bot"
+  linkedin: "young-zhang-1990a7268"
+  bluesky:
 
-  # 其他个人账号
-  linkedin:www.linkedin.com/in/young-zhang-1990a7268 
-  bluesky:# Site Author - The following control what appear as part of the author content on the side bar.
-#               If a field is blank the icon and link will not appear, otherwise it will be shown.
-#               Additional customization can be done by editing /_includes/author-profile.html
-
-
-
-  # Repositories and software development
-  bitbucket        : # Username - Update with your username on the site
-  codepen          : # Username
-  dribbble         : # Username
-  github           : "academicpages"
-  kaggle           : # Username  
-  stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
 
 
