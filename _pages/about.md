@@ -25,7 +25,7 @@ I am currently studying extreme value theory for discrete-time series in Wassers
 
 ## Personal Interests
 
-Outside research, I enjoy watching and playing football, and I have been a Chelsea supporter for over ten years. I also enjoy analysing stocks from a fundamental perspective.
+Outside research, I enjoy watching and playing football, and I have been a Chelsea supporter for over ten years. I also enjoy analysing stocks from a fundamental perspective. I also enjoy watching animated series and films in my spare time, and share my recommendations and watchlist in the [Animation section]({{ '/animation/' | relative_url }}).
 
 I share occasional company analyses and updates in [Investment Ideas]({{ '/investment-ideas/' | relative_url }}).
 
