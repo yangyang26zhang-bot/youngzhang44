@@ -1,8 +1,0 @@
-{% assign recommendation = include.recommendation %}
-<figure class="animation-visual" style="max-width: 440px;">
-  <img src="{{ recommendation.visual | relative_url }}" alt="{{ recommendation.visual_alt | escape }}" width="{{ recommendation.visual_width }}" height="{{ recommendation.visual_height }}" loading="lazy" style="display: block; width: 100%; height: auto;">
-  <figcaption>
-    <a href="{{ recommendation.visual_source | escape }}">{{ recommendation.visual_label | escape }}</a><br>
-    {{ recommendation.visual_credit | escape }}
-  </figcaption>
-</figure>
