@@ -41,44 +41,6 @@ Applied probability, extreme value theory, optimal transport, and stochastic con
 - First-Class Honours; overall mark: 87.54/100.
 - Selected coursework: Functional Analysis, Introduction to Statistical Learning, Probability for Statistics, and Probability Theory.
 
-## Research Experience
-
-### Postgraduate Researcher - Imperial College London
-
-**September 2025 - present**
-
-Project supervisor: Riccardo Passeggeri
-
-- Extended an extreme value theory framework to discrete-time series in Wasserstein space.
-- Established preservation of the asymptotic law under a fixed reference measure and derived clustering results.
-- Applied the theoretical results to transformer-layer settings and implemented numerical simulations.
-
-### Undergraduate Researcher - Imperial College London
-
-**June 2024 - September 2024**
-
-Supervisor: Philip Ernst
-
-- Investigated modified Gerber statistics and constructed a counterexample showing that the resulting matrix need not be positive semidefinite.
-- Conducted simulation experiments and established positive semidefiniteness under small perturbations.
-
-### Undergraduate Researcher - Imperial College London
-
-**June 2023 - May 2024**
-
-Supervisor: Samuel Brzezicki
-
-- Reviewed game-theoretic models and applied strategic decision-making concepts to football tactics.
-- Combined Premier League data with a game-theoretic model to predict win probabilities for the FA Cup final.
-
-## Professional Experience
-
-### Investment Banking Department Intern - GF Securities
-
-**August 2023 - September 2023** | Guangzhou, China
-
-- Researched Chinese clean-energy and electricity-provider startups, combining industry reports and stakeholder interviews to support investment decision-making.
-
 ## Selected Project
 
 ### Jump Trading Probability Cup - Sports Predict
